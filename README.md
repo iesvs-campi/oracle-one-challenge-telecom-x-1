@@ -42,10 +42,6 @@ Se realizó un proceso de limpieza profundo para garantizar la integridad de los
 * **Validación:** Verificación de consistencia lógica entre servicios contratados y confirmación de 0 registros duplicados.
 
 
-
-[Image of data cleaning process flowchart]
-
-
 ---
 
 ### Análisis de Factores de Abandono
@@ -69,7 +65,7 @@ Se examinó la fidelidad según la tecnología de conexión utilizada.
 #### 3. Factor Temporal: Antigüedad del Cliente
 Se estudió la permanencia de los clientes antes de abandonar el servicio.
 
-* **Hallazgo clave:** El riesgo de abandono es crítico al inicio de la relación. Se identifica un **pico de abandonos en el mes 1**, con una tendencia decreciente a medida que aumenta la antigüedad del cliente (rango de 0 a 72 meses).
+* **Hallazgo clave:** El riesgo de abandono es crítico al inicio de la relación. Se identifica un **pico de abandonos en el mes 1**, con una tendencia decreciente a medida que aumenta la antigüedad del cliente.
 
 #### 4. Factor Operativo: Métodos de Pago
 Se comparó el impacto de los pagos automáticos frente a los manuales.
